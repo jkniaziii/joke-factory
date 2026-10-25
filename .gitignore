@@ -1,0 +1,16 @@
+# Secrets — never commit these
+.env
+*.env
+service-account*.json
+google-sa*.json
+credentials*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store

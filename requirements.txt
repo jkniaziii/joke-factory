@@ -1,0 +1,5 @@
+praw==7.8.1
+gspread==6.1.4
+google-auth==2.37.0
+requests==2.32.3
+groq==0.13.1
